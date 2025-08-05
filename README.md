@@ -47,7 +47,7 @@ Key features:
   - Genetic Algorithm (GA)
   - Particle Swarm Optimization-Evolution (PSO-E)
 
-📂 Folder: `/Mathematica/3D_Placement_Optimization/`
+📂 Folder: `\Mathematica\3D_UAV_Optimal_Placement/
 
 ---
 
