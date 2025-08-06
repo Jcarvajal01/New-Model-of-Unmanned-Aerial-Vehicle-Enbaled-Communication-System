@@ -47,7 +47,7 @@ Key features:
   - Genetic Algorithm (GA)
   - Particle Swarm Optimization-Evolution (PSO-E)
 
-📂 Folder: `\Mathematica\3D_UAV_Optimal_Placement/
+📂 Folder: /3D_UAV_Optimal_Placement/
 
 ---
 
@@ -67,7 +67,7 @@ This section focuses on the 3D placement of UAVs under realistic wireless channe
 
 The simulation files are implemented in Wolfram Mathematica and are located in:
 
-📂 /Mathematica/Rician_Shadowed_Optimization/
+📂 /3D_UAV_Rician_Shadowed/
 ---
 
 ## 🧑‍💻 Author
